@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkformTheme", "DarkformTheme\DarkformTheme.csproj", "{E9079986-3667-47F0-8750-16CDE514FADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9079986-3667-47F0-8750-16CDE514FADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9079986-3667-47F0-8750-16CDE514FADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9079986-3667-47F0-8750-16CDE514FADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9079986-3667-47F0-8750-16CDE514FADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970D8028-AAC1-4218-8F24-ED7FBEC8C740}
+	EndGlobalSection
+EndGlobal
